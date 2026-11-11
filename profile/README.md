@@ -18,29 +18,12 @@ We operate as a hybrid engineering lab, supporting internal products and platfor
 
 ## Our Focus Areas
 
-### Artificial Intelligence & Data Science
-
-Exploring applied machine learning, generative AI, intelligent automation, data engineering, and practical AI-powered solutions.
-
-### Cloud & Platform Engineering
-
-Building reliable cloud-native infrastructure, automated deployment workflows, containerized applications, and scalable engineering platforms.
-
-### Software Engineering
-
-Designing and maintaining applications, APIs, developer tools, and digital platforms with an emphasis on quality, security, and maintainability.
-
-### DevOps, SRE & MLOps
-
-Applying automation, continuous delivery, observability, infrastructure as code, and reliability engineering to modern software and AI systems.
-
-### Cybersecurity
-
-Exploring secure engineering practices, application security, infrastructure protection, and security automation.
-
-### Technical Education & Research
-
-Developing practical labs, reference implementations, technical documentation, and experimental projects that connect engineering theory with real-world applications.
+- **AI & Data Science** — Machine learning, generative AI, intelligent automation, and data engineering.
+- **Cloud & Platform Engineering** — Cloud-native infrastructure, scalable platforms, and automation.
+- **Software Engineering** — Applications, APIs, digital platforms, and developer tools.
+- **DevOps, SRE & MLOps** — CI/CD, infrastructure as code, observability, and reliability engineering.
+- **Cybersecurity** — Application security, infrastructure protection, and security automation.
+- **Technical Education & Research** — Hands-on labs, applied research, and open-source projects.
 
 ---
 
